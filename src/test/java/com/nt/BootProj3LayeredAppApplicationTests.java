@@ -8,6 +8,10 @@ class BootProj3LayeredAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+        
+spring.application.name=01-app        
+
+
 	}
 
 }
